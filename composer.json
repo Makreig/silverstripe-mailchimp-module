@@ -8,8 +8,8 @@
     ],
     "type": "silverstripe-module",
     "require": {
-        "silverstripe/cms": "~3.1",
-        "silverstripe-australia/gridfieldextensions": "~1.1"
+        "silverstripe/cms": "3.6.*@stable",
+        "silverstripe-australia/gridfieldextensions": "^1.1"
     },
     "require-dev": {
         "fojuth/readmegen": "~1.1"
